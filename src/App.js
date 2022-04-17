@@ -1,4 +1,4 @@
-import logo from "./opus.svg";
+import logo from "./Kermit.png";
 import "./App.css";
 
 function App() {
@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>Happy Easter Little Raven!!!</p>
       </header>
     </div>
   );
