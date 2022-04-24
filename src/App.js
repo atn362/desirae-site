@@ -1,16 +1,11 @@
-import logo from "./Kermit.png";
+import React from "react";
 import "./App.css";
-import Button from "./Components/Button";
-
+import { Header, Navbar } from "./components/common";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Happy Birthday Raven</h1>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Much Love From Uncle Alex</p>
-      </header>
-      <Button />
+      <Header />
+      <Navbar />
     </div>
   );
 }
