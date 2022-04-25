@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/desirae-site/static/css/main.5de37070.css",
-    "main.js": "/desirae-site/static/js/main.0d793449.js",
-    "static/media/Kermit.png": "/desirae-site/static/media/Kermit.45e2b852ef7f8a671db2.png",
+    "main.css": "/desirae-site/static/css/main.e528f482.css",
+    "main.js": "/desirae-site/static/js/main.7183fc74.js",
     "index.html": "/desirae-site/index.html",
-    "main.5de37070.css.map": "/desirae-site/static/css/main.5de37070.css.map",
-    "main.0d793449.js.map": "/desirae-site/static/js/main.0d793449.js.map"
+    "main.e528f482.css.map": "/desirae-site/static/css/main.e528f482.css.map",
+    "main.7183fc74.js.map": "/desirae-site/static/js/main.7183fc74.js.map"
   },
   "entrypoints": [
-    "static/css/main.5de37070.css",
-    "static/js/main.0d793449.js"
+    "static/css/main.e528f482.css",
+    "static/js/main.7183fc74.js"
   ]
 }
