@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/desirae-site/static/css/main.e528f482.css",
-    "main.js": "/desirae-site/static/js/main.7183fc74.js",
+    "main.css": "/desirae-site/static/css/main.74b4fdf5.css",
+    "main.js": "/desirae-site/static/js/main.296bd4a9.js",
     "index.html": "/desirae-site/index.html",
-    "main.e528f482.css.map": "/desirae-site/static/css/main.e528f482.css.map",
-    "main.7183fc74.js.map": "/desirae-site/static/js/main.7183fc74.js.map"
+    "main.74b4fdf5.css.map": "/desirae-site/static/css/main.74b4fdf5.css.map",
+    "main.296bd4a9.js.map": "/desirae-site/static/js/main.296bd4a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e528f482.css",
-    "static/js/main.7183fc74.js"
+    "static/css/main.74b4fdf5.css",
+    "static/js/main.296bd4a9.js"
   ]
 }
