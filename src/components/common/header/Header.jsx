@@ -21,8 +21,6 @@ function Header() {
         </section>
         <section className="header-top_navbar"> {<Navbar />} </section>
         <section className="header-bottom"></section>
-        <section className="header-bottom_phone">952-270-8875</section>
-        <section className="header-bottom_email">atn362@gmail.com</section>
       </section>
     </section>
   );
